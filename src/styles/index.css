@@ -139,7 +139,9 @@ main {
 
 .text-container, .form-container {
     width: min(100%, 700px);
+    margin: 0 auto;
 }
+
 
 .booking-form {
     background-color: var(--nav-bg);
